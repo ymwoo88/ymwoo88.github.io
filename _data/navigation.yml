@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "HOME MAIN"
+    url: https://ymwoo88.github.io/
   - title: "JAVA"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
+    url: https://github.com/7271kim/7271kim.github.com
+  - title: "SPRING"
+    url: https://github.com/7271kim/7271kim.github.com
+  - title: "AWS"
+    url: https://github.com/7271kim/7271kim.github.com
+  - title: "ORDER"
+    url: https://github.com/7271kim/7271kim.github.com
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
