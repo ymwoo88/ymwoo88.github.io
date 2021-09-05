@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "YMWOO88 블로그"
+locale                   : "ko-KR"
+title                    : "노력하면 될거야 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "우영민"
+name                     : "기성나그네"
 description              : "늦었다고 생각만하지 말고, 지금이라도 시작하자는 마음으로 꾸준하게 해보자"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "우영민"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "공부하는 기성나그네"
+  avatar           : "/assets/images/space_01.png" # path of avatar image, e.g. 
   bio              : "늦었다고 생각만말고 그 시간에 기록하자!"
-  location         : "서울"
+  location         : "Seoul, South Korea"
   email            : "ymwoo88@gmail.com"
   links:
     - label: "Email"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/ymwoo88"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
